@@ -1,3 +1,5 @@
+# Testing Publication, Information in this folder is unreliable and does not engage Cisco in any way, just personnal testing
+# ---------------------------------------------------------------------------------------------------
 # Cloudera-Intel-Cisco-Hadoop-Benchmark-TOI-
 This benchmark intends to look at the physics of Hadoop. Today, it is pretty easy to set up a working Hadoop environment where the base default configuration works and the jobs are completed.
 But, are you really happy if the job completes in three hours at 10% utilisation?
